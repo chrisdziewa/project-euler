@@ -1,3 +1,6 @@
+/* Project Euler Sum of even Fibonacci 
+sequence not exceding 4000000 in the sequence */
+
 function fibSequence(limit) {
 	var prev = 1;
 	var current = 1;
