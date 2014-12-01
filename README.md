@@ -1,4 +1,4 @@
 project-euler-js
 ================
 
-3 first project Euler projects completed as part of the curriculum from www.theodinproject.com
+3 first Project Euler projects completed in JS as part of the curriculum from [The Odin Project](http://www.theodinproject.com)
